@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\bin\Debug\WPFprogect.exe.config
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\bin\Debug\WPFprogect.exe
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\bin\Debug\WPFprogect.pdb
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.g.resources
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.exe
+C:\Users\Lenovo\source\repos\WPFprogect\WPFprogect\obj\Debug\WPFprogect.pdb
